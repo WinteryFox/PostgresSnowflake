@@ -1,0 +1,3 @@
+comment = 'Implements the Snowflake ID standard'
+default_version = '1.0.0'
+relocatable = true
